@@ -19,7 +19,7 @@ env:
   REGION:   ap-south-1
   DIST_ID:  EG9MVX1OQTADF
   SITE_URL: https://d1sp7k4kshth8h.cloudfront.net
-  MARKER:   SITE-OK
+  MARKER:   SITE-notOK
 
 jobs:
   deploy:

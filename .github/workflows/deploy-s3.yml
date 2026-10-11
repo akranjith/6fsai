@@ -18,7 +18,7 @@ env:
   BACKUP:   backups/index-previous.html
   REGION:   ap-south-1
   DIST_ID:  EG9MVX1OQTADF
-  SITE_URL: d1sp7k4kshth8h.cloudfront.net
+  SITE_URL: https://d1sp7k4kshth8h.cloudfront.net
   MARKER:   SITE-OK
 
 jobs:

@@ -1,4 +1,4 @@
-# ---- videos (they are big, and GitHub has a 100 MB per-file limit) ----
+# ---- videos (they are big, and GitHub has a 99 MB per-file limit) ----
 
 # any video file, anywhere in the repo
 *.mp4

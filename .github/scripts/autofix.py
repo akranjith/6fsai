@@ -33,7 +33,7 @@ REGION = os.environ.get("BEDROCK_REGION", "us-west-2")
 RUN_ID = os.environ.get("RUN_ID", "")
 TARGET = os.environ.get("TARGET_FILE", "index.html")
 CHECKER = os.environ.get("CHECKER", "check-html.py")
-BASE_BRANCH = os.environ.get("BASE_BRANCH", "master")
+BASE_BRANCH = os.environ.get("BASE_BRANCH", "main")
 
 MAX_LOG_CHARS = 20000   # tail of the failure log we send to the model
 MAX_ATTEMPTS = 2        # one first try, one retry with the checker's complaint

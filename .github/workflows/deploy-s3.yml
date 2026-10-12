@@ -17,8 +17,8 @@ env:
   BUCKET:   cfpracticebuck-10 
   BACKUP:   backups/index-previous.html
   REGION:   ap-south-1
-  DIST_ID:  EG9MVX1OQTADF
-  SITE_URL: https://d1sp7k4kshth8h.cloudfront.net
+  DIST_ID:  E2NZHQH30LZ3US
+  SITE_URL: https://dduenfb4q1as0.cloudfront.net
   MARKER:   SITE-notOK
 
 jobs:
